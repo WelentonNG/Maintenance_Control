@@ -1,0 +1,49 @@
+# Dependencies
+/node_modules
+/vendor
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Uploads (keep directory structure, ignore files)
+/assets/uploads/*
+!/assets/uploads/.gitkeep
+
+# Cache
+/cache/*
+!/cache/.gitkeep
+
+# Temporary files
+/tmp
+*.tmp
+*.temp
+
+# Build files
+/dist
+/build
+
+# Configuration overrides
+config/config.local.php
+
+# Debug files
+phpinfo.php
+test.php
+debug.php

@@ -1,0 +1,20 @@
+# Backend Directory Configuration
+# Sistema de Controle de Manutenção
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /Maintenance_Control/backend/
+</IfModule>
+
+# Set default charset
+AddDefaultCharset UTF-8
+
+# Prevent access to sensitive files
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>
+
+# Allow all PHP files to be accessed
+<FilesMatch "\.php$">
+    Require all granted
+</FilesMatch>

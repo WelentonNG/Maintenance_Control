@@ -1,0 +1,2 @@
+# Deny access to all files in config directory
+Require all denied
