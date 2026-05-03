@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔧 Sistema de Controle de Manutenção
+# 🔧 Sistema de Controle de Manutenção V1.0
 
 ### Plataforma completa para gerenciamento de manutenção industrial e predial
 
