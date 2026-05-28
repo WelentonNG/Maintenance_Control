@@ -293,7 +293,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](docs/LICENSE
 **WelentonNG** - Proprietário e Desenvolvedor Principal
 
 - GitHub: [@WelentonNG](https://github.com/WelentonNG)
-- Email: welenton24@gmail.com
+- Email: welenton.melquides@gmail.com
 
 ### 🤝 Contribuições
 
